@@ -1,1 +1,1 @@
-# Classification of ERPs(P300) in BCI Speller-P300 application
+# Classification of ERPs(P300) in BCI P300-Speller application
